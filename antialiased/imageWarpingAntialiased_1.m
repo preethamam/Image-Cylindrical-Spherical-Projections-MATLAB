@@ -2,7 +2,7 @@
 % https://stackoverflow.com/questions/12017790/warp-image-to-appear-in-cylindrical-projection
 
 clc; clear; close all;
-image = imread('checker.jpg');
+image = imread('../checker.jpg');
 [width, height, channels] = size(image);
 f = width / 2;
 

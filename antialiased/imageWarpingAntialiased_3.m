@@ -4,7 +4,7 @@
 clc; close all; clear;
 
 % Inputs
-fileName = 'checker.jpg';
+fileName = '../checker.jpg';
 
 % Focal lengths (adjust as necessary)
 fx = 50; % Larger focal length to reduce extreme distortion
