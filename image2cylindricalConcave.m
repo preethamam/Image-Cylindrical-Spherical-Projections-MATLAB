@@ -11,7 +11,7 @@ function imageCylindrical = image2cylindricalConcave(image, K, DC, interpolate)
 %
 %************************************************************************%
 %
-% Usage: imageCylindrical = image2cylindrical_v2(image, K, DC)
+% Usage: imageCylindrical = image2cylindricalConcave(image, K, DC, interpolate)
 % Inputs: image - input image
 %         K  - Camera intrinsic matrix (depends on the camera).
 %         DC - Radial and tangential distortion coefficient.
